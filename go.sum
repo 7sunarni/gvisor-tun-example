@@ -1,0 +1,8 @@
+github.com/google/btree v1.1.2 h1:xf4v41cLI2Z6FxbKm+8Bu+m8ifhj15JuZ9sa0jZCMUU=
+github.com/google/btree v1.1.2/go.mod h1:qOPhT0dTNdNzV6Z/lhRX0YXUafgPLFUh+gZMl761Gm4=
+github.com/sagernet/gvisor v0.0.0-20230808113425-d8f9f5e110c4 h1:jRAqW4qyWpbeiJ9IOjXHoFtlrcknrX4KmbOX+sQqCkg=
+github.com/sagernet/gvisor v0.0.0-20230808113425-d8f9f5e110c4/go.mod h1:1JUiV7nGuf++YFm9eWZ8q2lrwHmhcUGzptMl/vL1+LA=
+golang.org/x/sys v0.9.0 h1:KS/R3tvhPqvJvwcKfnBHJwwthS11LRhmM5D59eEXa0s=
+golang.org/x/sys v0.9.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
+golang.org/x/time v0.3.0 h1:rg5rLMjNzMS1RkNLzCG38eapWhnYLFYXDXj2gOlr8j4=
+golang.org/x/time v0.3.0/go.mod h1:tRJNPiyCQ0inRvYxbN9jk5I+vvW/OXSQhTDSoE431IQ=
